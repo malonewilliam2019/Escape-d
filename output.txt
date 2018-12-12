@@ -1,0 +1,5 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=49356:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/willmalone/IdeaProjects/Escape'd/out/production/Escape'd Main
+Welcome to The House. You have 30 moves to escape. There is a set of verbs and nouns that will allow you to leave in the format of verb (open, close, light, read, write, play, look, get, go), noun (door, room, bench, chest, candle, note, matches, bookshelf, book, pen, scroll, music, trumpet, piano, drum, lock) or direction (north, south, east, west). If your move yields no advancement, the previous command will likely repeat itself. Good luck.
+
+You find yourself in a large foyer. There is a door to the north. To the west is a bench against the wall. To the east is a chest on the floor. In the center of the room is a large candle. The candle is unlit. You have 30 moves left.
+>>
